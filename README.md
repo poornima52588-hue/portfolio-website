@@ -1,11 +1,11 @@
-# Portfolio Website
+# Poornima Kulkarni Portfolio Website
 
-Personal portfolio website showcasing data analytics, machine learning, Tableau, Power BI, and dashboard projects.
+Personal portfolio website showcasing data analytics, machine learning, Tableau, Power BI, Python, R, and dashboard projects.
 
-## Projects Included
+## Featured Projects
 
-- Predictive Data Analysis Project
-- GDP Dashboard Project
+- Predictive Data Analysis for Respiratory Trend Prediction
+- GDP Analytics Dashboard using Tableau and Power BI
 
 ## Tech Stack
 
@@ -15,15 +15,18 @@ Personal portfolio website showcasing data analytics, machine learning, Tableau,
 - Framer Motion
 - Lucide React
 
-## Run Locally
+## Deployment
 
-```bash
-npm install
-npm run dev
-```
+This website can be deployed using Vercel.
 
-## Build
+Build command:
 
 ```bash
 npm run build
+```
+
+Output directory:
+
+```bash
+dist
 ```
